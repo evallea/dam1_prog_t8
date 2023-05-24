@@ -1,0 +1,22 @@
+Implementa la clase Concesionario, cuyos atributos serán la marca, modelo, precio y kilómetros del coche. Incluye un constructor con parámetros, los métodos set y get y un método que muestre por pantalla el valor de los atributos.
+
+Añade 20 coches distintos al concesionario y realiza las siguientes consultas:
+
+1.      Coches de la marca Seat.
+
+2.      Coches con un precio de 15000 €.
+
+3.      Coches que valen más de 20000 €.
+
+4.      Coches con más de 3000 km.
+
+5.      Coches con 0 km (usando QBE).
+
+6.      Coches con 0 km (usando SODA).
+
+7.      Coches de la marca Audi.
+
+8.      Coches que valen menos de 18000 € (usando QBE).
+
+9.      Coches que valen menos de 18000 € (usando SODA).
+
