@@ -1,0 +1,9 @@
+A partir de la clase Empleados, cuyos atributos son el nombre, estudios, edad y antigüedad:
+Genera 20 empleados. Debe haber al menos tres nombres repetidos. Los estudios serán: ASIR, DAM o DAW. El rango de edad de los empleados será entre 24 y 50 años (ambos incluidos). La antigüedad estará entre 1 y 20 años (ambos incluidos).
+Añade los 20 empleados a una base de datos orientada a objetos.
+Realiza una consulta que muestre todos los empleados.
+Modifica el nombre de todos los empleados con menos de 2 años de antigüedad.
+Cambia los estudios de todos los empleados mayores de 30 años a ASIR.
+Elimina todos los empleados que tengan menos de 25 años.
+Elimina todos los empleados que tengan más de 18 años de antigüedad.
+Realiza una consulta que muestre todos los empleados.
